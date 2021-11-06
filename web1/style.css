@@ -1,0 +1,82 @@
+
+
+body{
+    background-image: linear-gradient(to bottom right, gray,coral , wheat );
+
+}
+
+.topik{
+    background-color: black;
+    color: white;
+    width: 105px;
+}
+
+.test{
+    text-decoration: none;
+    background-color: green;
+    color: black;
+    height: 200px;
+}
+
+.test:hover{
+    background-color: black;
+    color: white;
+}
+
+.kanangambar{
+    display: flex;
+}
+
+.isiberita{
+    margin-left: 20px;
+    margin-top: 0;
+}
+
+.gambaratas{
+    width: 500px;
+}
+
+section{
+    width: 1000px;
+}
+
+.gambarteknik{
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    display: flex;
+}
+
+.sosmed{
+    color: white;
+    padding: 30px;
+    flex:1;
+    background-color:gray;
+}
+
+.sosmed li{
+    list-style: none;
+}
+
+h3{
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+.tentang{
+    background-color: chocolate;
+    padding: 30px;
+    flex:1;
+    color: white;
+}
+
+.copyright{
+    padding: 30px;
+    flex:1;
+    background-color:palevioletred;
+    color: white;
+}
